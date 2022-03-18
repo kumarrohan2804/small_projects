@@ -1,0 +1,24 @@
+.card_Container{
+    width: 40vw;
+    margin: 30px auto ;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.img_container{
+    display: flex;
+    justify-content: center;
+    border-radius: 20%;
+}
+.img_container img{
+    display: block;
+    padding: 20px 0px 40px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 -10px grey;
+}
+.details_container{
+    padding: 16px 24px;
+    font-size: 1.3rem;
+}
+.details_container span{
+    color: darkseagreen;
+}
